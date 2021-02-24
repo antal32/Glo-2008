@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/etudiant/Bureau/TP1_Antoine_Talbot/Piece.cpp
+Piece.h
+/home/etudiant/Bureau/TP1_Antoine_Talbot/Piece.h
+
+/home/etudiant/Bureau/TP1_Antoine_Talbot/Piece.h
+string
+-
+list
+-
+Porte.h
+/home/etudiant/Bureau/TP1_Antoine_Talbot/Porte.h
+
+/home/etudiant/Bureau/TP1_Antoine_Talbot/Porte.h
+
